@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HybridSorting
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=scanner\ algorithmNumber
+comment2.target=int\ chooseAlgorithm(java.util.Scanner,\ int)
+comment3.params=array\ choice
+comment3.target=void\ sortPartition(int[],\ int)
+comment4.params=choice
+comment4.target=java.lang.String\ getAlgorithmName(int)
+comment5.params=array
+comment5.target=void\ displayArray(int[])
+comment6.params=label\ choice
+comment6.target=void\ displayComplexity(java.lang.String,\ int)
+numComments=7
